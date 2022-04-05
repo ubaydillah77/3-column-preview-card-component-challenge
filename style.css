@@ -37,7 +37,7 @@ body {
 }
 
 .cards {
-    margin-top: 2rem;
+    margin-top: 2.1rem;
     background-color: orangered;
     width: 900px;
 
@@ -83,6 +83,8 @@ body {
 }
 
 .card__text {
+    margin-top: 2rem;
+
     color: var(--less-white);
     margin-bottom: auto;
 }
